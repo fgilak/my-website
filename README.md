@@ -1,3 +1,5 @@
 # my-website2
 
-updates before rebase
+updates before rebas
+
+a change that conflicts
